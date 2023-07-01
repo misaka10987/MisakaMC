@@ -1,5 +1,5 @@
 # MisakaMC
-English | [汉语](https://github.com/misaka10987/MisakaMC/blob/main/README-zh_CN.md)  
+[English](https://github.com/misaka10987/MisakaMC/blob/main/README.md) | 汉语  
 **MisakaMC** 是一个Minecraft 1.12.2模组服务器。
 ***
 ## 安装
