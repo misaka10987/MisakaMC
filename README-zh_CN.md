@@ -24,4 +24,4 @@
 ## [致谢](https://github.com/misaka10987/MisakaMC/blob/main/acknowledgment.md)
 ***
 ## 许可证
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+[CC BY-NC-SA 4.0]((https://github.com/misaka10987/MisakaMC/blob/main/LICENSE)

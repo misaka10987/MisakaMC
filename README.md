@@ -24,4 +24,4 @@ Feel free to start an issue on github.
 ## [Acknowledgments](https://github.com/misaka10987/MisakaMC/blob/main/acknowledgment.md)
 ***
 ## License
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+[CC BY-NC-SA 4.0](https://github.com/misaka10987/MisakaMC/blob/main/LICENSE)
