@@ -1,5 +1,6 @@
 /.cache
 /libraries
 /mods
+/plugins
 .server.sh
 server.jar
